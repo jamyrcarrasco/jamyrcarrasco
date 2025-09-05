@@ -14,8 +14,6 @@
 - Building and maintaining enterprise-level systems with **C#, .NET, Angular, Vue.js, Laravel, SQL Server, and MySQL**  
 
 ### 🌱 Currently Learning
-- 🐳 Docker & Cloud DevOps (AWS, Azure)  
-- 📱 Flutter  
 - 🤖 Prompt Engineering for Developers & AI Agent development (my goal: build my first AI Agent this year 🚀)  
 
 ### 🤓 Open Source
