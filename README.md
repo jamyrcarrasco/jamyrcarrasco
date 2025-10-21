@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 Currently Working
-- **Senior Software Engineer IV** at [Claro Dominicana](https://www.claro.com.do/personas/)  
+- **Senior Software Engineer
 - Building and maintaining enterprise-level systems with **C#, .NET, Angular, Vue.js, Laravel, SQL Server, and MySQL**  
 
 ### 🌱 Currently Learning
