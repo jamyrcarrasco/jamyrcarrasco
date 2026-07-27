@@ -1,82 +1,110 @@
-<h1 align="center">Hi there 👋, I'm Jamyr Carrasco</h1>
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | AI Enthusiast</h3>
+<h1 align="center">Hola 👋, soy Jamyr Carrasco</h1>
+<h3 align="center">🚀 Full Stack Developer | 🇩🇴 Dominican Republic | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  I’m a passionate full stack developer from the Dominican Republic 🇩🇴.  
-  I specialize in building scalable web applications, APIs, and enterprise systems using C#, .NET, Angular, Vue, React, Laravel, and SQL.  
-  I love solving real-world problems with technology, and lately I’ve been diving into **AI, Prompt Engineering, and AI Agents** to expand my toolkit.  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Construyendo+aplicaciones+web+escalables;C%23+%7C+.NET+%7C+Angular+%7C+Vue+%7C+React+%7C+Laravel;Explorando+Prompt+Engineering+y+AI+Agents;Papá%2C+gamer+y+fan+de+Star+Wars" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Desarrollador full stack apasionado por construir aplicaciones web, APIs y sistemas escalables.
+  Me encanta resolver problemas reales con tecnología, y últimamente estoy metiéndome de lleno en
+  <b>AI, Prompt Engineering y AI Agents</b> para ampliar mi caja de herramientas. 🧠✨
 </p>
 
 ---
 
-### 🔭 Currently Working
-- **Senior Software Engineer
-- Building and maintaining enterprise-level systems with **C#, .NET, Angular, Vue.js, Laravel, SQL Server, and MySQL**  
-
-### 🌱 Currently Learning
-- 🤖 Prompt Engineering for Developers & AI Agent development (my goal: build my first AI Agent this year 🚀)  
+### 🌱 Actualmente aprendiendo
+- 🤖 Prompt Engineering para desarrolladores y construcción de AI Agents (meta 2026: lanzar mi primer agente 🚀)
 
 ### 🤓 Open Source
-- Always willing to contribute to **open-source projects** and collaborate with other developers.  
+- Siempre abierto a colaborar en proyectos open source y a sumar con otros devs.
 
-### 📫 How to reach me
-- **Email:** jamyr@carrascoferreras.com  
-- **LinkedIn:** [Jamyr Carrasco](https://www.linkedin.com/in/jamyr-carrasco-ferreras-6b8851159/)  
-
----
-
-## 🌐 Connect with me
+### 📫 Cómo contactarme
 <p align="left">
+<a href="mailto:jamyr@carrascoferreras.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/jamyr-carrasco-ferreras-6b8851159/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Stack Tecnológico
 
-**Frontend**  
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
+**Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</p>
 
-**Backend**  
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
+**Backend**
+<p align="left">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-**Databases**  
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
+**Bases de datos**
+<p align="left">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-**DevOps / Cloud**  
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg"></code>
+**DevOps / Cloud**
+<p align="left">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
 
-**Testing / Tools**  
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+**Testing / Herramientas**
+<p align="left">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=jamyrcarrasco&show_icons=true&locale=en" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamyrcarrasco&" /> |
-|---|---|
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamyrcarrasco&show_icons=true&locale=en&layout=compact" /> | |
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jamyrcarrasco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamyrcarrasco&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamyrcarrasco&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamyrcarrasco&theme=tokyo-night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jamyrcarrasco&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
-When I’m not coding, you’ll probably find me playing 🎮 **Call of Duty online**, exploring the **Star Wars universe**, or spending quality time with my kids.  
+## ⚡ Datos curiosos
+- 🎮 Jugador activo de **Call of Duty**
+- 🌌 Fan del universo de **Star Wars**
+- 👨‍👧‍👦 Papá, disfrutando el tiempo con mis hijos
+- 🎯 Meta 2026: construir mi primer AI Agent
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jamyrcarrasco&label=Visitas%20al%20perfil&color=2E9EF7&style=flat" alt="jamyrcarrasco" />
+</p>
